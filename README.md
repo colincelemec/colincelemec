@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Modena,_Italia-informational?style=flat&logo=googlemaps&logoColor=white&color=555" alt="Modena">
+  <a href="https://colincelemec.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1b6ef3?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/colince-tcheussieu-mendji-286692277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mendjilemec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
