@@ -1,7 +1,7 @@
 <h1 align="center">Colince Mendji</h1>
 
 <p align="center">
-  Studente di Informatica — Università di Modena e Reggio Emilia<br>
+  Studente in Ingegneria Informatica — Università di Modena e Reggio Emilia<br>
   <em>Sviluppo full-stack . Programmazione di sistema . Algoritmi . Machine Learning</em>
 </p>
 
