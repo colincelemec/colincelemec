@@ -15,10 +15,13 @@
 
 ### Su di me
 
-Studio Informatica a UNIMORE e costruisco cose che vengono usate davvero — dal sito
+Studio Ingegneria Informatica a UNIMORE e costruisco cose che vengono usate davvero — dal sito
 dell'associazione degli studenti africani di Modena a piattaforme web full-stack.
 Mi muovo tra due mondi che mi piacciono entrambi: il web moderno con React e Node,
 e la programmazione di sistema in C, dove si ragiona su processi, memoria e socket.
+Inoltre sto per prendere la mia laurea in ingegneria informatica e penso di proseguire
+nel fututo in Master nell'ambito dell'intelligenza Artificiale con un punta sui settori
+che riguardano la Data Science.
 
 ---
 
