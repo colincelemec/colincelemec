@@ -2,7 +2,7 @@
 
 <p align="center">
   Studente di Informatica — Università di Modena e Reggio Emilia<br>
-  <em>Sviluppo full-stack · Programmazione di sistema · Algoritmi</em>
+  <em>Sviluppo full-stack | Programmazione di sistema | Algoritmi | Machine Learning</em>
 </p>
 
 <p align="center">
