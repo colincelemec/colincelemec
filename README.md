@@ -73,7 +73,7 @@ Master's in Artificial Intelligence, focusing on Data Science.
 | **[TaskFlow](https://github.com/colincelemec/TESINA-TECNOLOGIE-WEB)** | Project and task manager with a REST API and React dashboard — course project | Python · Flask · React |
 | **[Equa Harvest](https://github.com/colincelemec/equa-harvest-website)** | Showcase website for sustainable cocoa farming | HTML · CSS · JavaScript |
 | **[Speed Typing Master](https://github.com/colincelemec/ColinceMethodToTextFast)** | Typing game with WPM tracking, sound effects and a leaderboard | Python · Tkinter |
-| **Afro Italia** *(private)* | Containerised full-stack platform with authentication, maps and payments | React · Express · Prisma · PostgreSQL · Docker |
+| **[Afro Italia](https://github.com/colincelemec/afro-italia)** | Containerised full-stack platform with authentication, maps and payments | React · Express · Prisma · PostgreSQL · Docker |
 
 ### University coursework
 
